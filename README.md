@@ -10,7 +10,7 @@
 
 
 ## 참고자료 ##
-
+* https://intellipaat.com/blog/tutorial/spark-tutorial/machine-learning-with-pyspark-tutorial/
 * https://www.kaggle.com/code/dhirajrai87/feature-engineering-with-pyspark
 
 * https://medium.com/vedity/python-data-preprocessing-using-pyspark-cc3f709c3c23
