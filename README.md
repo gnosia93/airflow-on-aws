@@ -6,6 +6,8 @@
 
 ## 데이터 셋 ##
 
+* https://serokell.io/blog/best-machine-learning-datasets
+
 * https://www.kaggle.com/c/titanic/data
 
 
