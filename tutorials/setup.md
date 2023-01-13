@@ -60,8 +60,9 @@ SparkSession available as 'spark'.
 >>>
 ```
 
-5. 주피터 랩(노트북)에서 파이스팍 동작을 확인
+5. 주피터 랩(노트북)에서 pyspark 동작 확인
 
+![](https://github.com/gnosia93/airflow-on-aws/blob/main/images/jupyter-pyspark.png)
 
 
 ## 참고자료 ##
