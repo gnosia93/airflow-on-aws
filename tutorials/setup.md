@@ -11,7 +11,7 @@
 (base) soonbeom@bcd07468d10a ~ % conda install -y -c conda-forge findspark
 ```
 
-3. 파이 스파크가 제대로 설치되었는지 확인합니다.
+3. pyspark 설치 확인
 ```
 (base) soonbeom@bcd07468d10a ~ % pyspark
 Python 3.9.13 (main, Aug 25 2022, 18:29:29)
@@ -40,6 +40,25 @@ SparkSession available as 'spark'.
 >>>
 ```
 
+4. 동작 테스트
+```
+>>> sc
+<SparkContext master=local[*] appName=PySparkShell>
+>>> data = [("Java", "20000"), ("Python", "100000"), ("Scala", '3000')]
+>>> df = spark.createDataFrame(data)
+
+>>>
+>>> df.show()
++------+------+
+|    _1|    _2|
++------+------+
+|  Java| 20000|
+|Python|100000|
+| Scala|  3000|
++------+------+
+
+>>>
+```
 
 ## 참고자료 ##
 
