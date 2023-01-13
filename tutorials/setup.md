@@ -68,3 +68,4 @@ SparkSession available as 'spark'.
 ## 참고자료 ##
 
 * https://sparkbyexamples.com/pyspark/install-pyspark-in-anaconda-jupyter-notebook/
+* https://sparkbyexamples.com/pyspark-tutorial/
