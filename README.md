@@ -8,8 +8,12 @@
 
 * https://serokell.io/blog/best-machine-learning-datasets
 
-* https://www.kaggle.com/c/titanic/data
+* [Data Preprocessing Apache PySpark Tutorial 12 || DataFrame PreProcessing](https://www.kaggle.com/c/titanic/data)
 
+
+## Pyspark ##
+
+* https://www.youtube.com/watch?v=1N5FPhYkDiE
 
 ## 참고자료 ##
 * https://www.youtube.com/watch?v=_C8kWso4ne4
