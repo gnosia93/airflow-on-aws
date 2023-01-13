@@ -40,7 +40,7 @@ SparkSession available as 'spark'.
 >>>
 ```
 
-4. 동작 테스트
+4. 스파크 쉘에서 동작 확인
 ```
 >>> sc
 <SparkContext master=local[*] appName=PySparkShell>
@@ -59,6 +59,10 @@ SparkSession available as 'spark'.
 
 >>>
 ```
+
+5. 주피터 랩(노트북)에서 파이스팍 동작을 확인
+
+
 
 ## 참고자료 ##
 
