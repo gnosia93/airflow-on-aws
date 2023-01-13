@@ -12,6 +12,7 @@
 
 
 ## 참고자료 ##
+* https://www.youtube.com/watch?v=_C8kWso4ne4
 * https://intellipaat.com/blog/tutorial/spark-tutorial/machine-learning-with-pyspark-tutorial/
 * https://www.kaggle.com/code/dhirajrai87/feature-engineering-with-pyspark
 
