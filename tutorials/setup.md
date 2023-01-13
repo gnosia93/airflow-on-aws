@@ -3,6 +3,7 @@
 ```
 (base) soonbeom@bcd07468d10a ~ % conda install -y openjdk
 (base) soonbeom@bcd07468d10a ~ % conda install -y pyspark
+(base) soonbeom@bcd07468d10a ~ % conda install -y -c conda-forge findspark
 ```
 
 ## 참고자료 ##
