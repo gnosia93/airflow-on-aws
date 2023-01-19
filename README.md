@@ -10,6 +10,8 @@
 
 * [Data Preprocessing Apache PySpark Tutorial 12 || DataFrame PreProcessing](https://www.kaggle.com/c/titanic/data)
 
+* [Fake Data 만들기](https://towardsdatascience.com/generating-fake-data-with-python-c7a32c631b2a)
+
 
 ## Pyspark ##
 
