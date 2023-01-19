@@ -14,6 +14,7 @@
 ## Pyspark ##
 
 * https://www.youtube.com/watch?v=1N5FPhYkDiE
+* https://sparkbyexamples.com/spark/spark-repartition-vs-coalesce/
 
 ## 참고자료 ##
 * https://www.youtube.com/watch?v=_C8kWso4ne4
