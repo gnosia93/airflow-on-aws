@@ -3,7 +3,8 @@
 Airflow Orchestration
   - 전처리 : Glue / Spark
   - ML training / parameter tunning / Interference -> sagemaker.
-    
+
+올해 새롭게 만들 워크샵 / 빌드하자 ^_^
 
 
 
