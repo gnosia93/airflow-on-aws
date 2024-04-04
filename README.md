@@ -1,4 +1,10 @@
-# mlops
+# airflow-on-aws
+
+Airflow Orchestration
+  - 전처리 : Glue / Spark
+  - ML training / parameter tunning / Interference -> sagemaker.
+    
+
 
 
 
