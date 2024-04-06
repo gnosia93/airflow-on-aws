@@ -7,7 +7,7 @@
   - ML training / parameter tunning / Interference -> sagemaker.
   - not describe feature store (on/offline)
   - bucket structure is broze / silver / gold
-    - delta lake / iceberg  
+    - delta lake / iceberg with parquet
   - no visualization support such as quicksight, tableau
   - pytorch for ml
   - pypark for sparkml & dataframe - de
