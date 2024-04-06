@@ -23,3 +23,4 @@
 * https://aws.amazon.com/blogs/big-data/simplify-aws-glue-job-orchestration-and-monitoring-with-amazon-mwaa/
 * https://towardsdatascience.com/data-pipeline-with-airflow-and-aws-tools-s3-lambda-glue-18585d269761
 * https://louisdev.tistory.com/8
+* https://burning-dba.tistory.com/169
