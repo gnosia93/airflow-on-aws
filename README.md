@@ -3,7 +3,7 @@
 * Airflow Orchestration
   - 전처리 : Glue / Spark
   - ML training / parameter tunning / Interference -> sagemaker.
-  - Pytorch
+  - pytorch / pypark
   - MLflow --> experiment / model 저장.
 
 * Infra : VPC, S3, EC2, Glue or EMR Spark
