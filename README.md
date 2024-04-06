@@ -8,7 +8,7 @@
   - not describe feature store (on/offline)
   - bucket structure is broze / silver / gold
     - delta lake / iceberg  
-  - no visualization such as quicksight, tableau
+  - no visualization support such as quicksight, tableau
   - pytorch for ml
   - pypark for sparkml & dataframe
   - CI/CD
