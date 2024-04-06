@@ -6,7 +6,7 @@
       - communication with boto3 api 
   - 전처리 : Glue / Spark
   - ML training / parameter tunning / Interference -> sagemaker.
-  - not describe feature store (on/offline)
+  - not embrace feature store (on/offline)
   - bucket structure is broze / silver / gold
     - delta lake / iceberg with parquet
   - no visualization support such as quicksight, tableau
