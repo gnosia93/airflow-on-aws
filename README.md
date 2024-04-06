@@ -16,4 +16,5 @@
 ## 레퍼런스 ##
 
 * https://aws.amazon.com/ko/blogs/korea/build-end-to-end-machine-learning-workflows-with-amazon-sagemaker-and-apache-airflow/
+* https://aws.amazon.com/blogs/big-data/simplify-aws-glue-job-orchestration-and-monitoring-with-amazon-mwaa/
 * https://louisdev.tistory.com/8
