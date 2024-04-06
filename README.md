@@ -2,13 +2,19 @@
 
 * workshop spec
   - Airflow Orchestration
+      - PC located airflow, not cloud
   - 전처리 : Glue / Spark
   - ML training / parameter tunning / Interference -> sagemaker.
   - not describe feature store (on/offline)
   - bucket structure is broze / silver / gold
+    - delta lake / iceberg  
   - no visualization such as quicksight, tableau
   - pytorch for ml
   - pypark for sparkml & dataframe
+  - CI/CD
+      - github / githube action.
+      - code commit / copepipeline
+      
   - MLflow ?? --> experiment / model 저장.
 
 * Infra : VPC, S3, EC2, Glue or EMR Spark
