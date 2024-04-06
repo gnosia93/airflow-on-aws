@@ -3,6 +3,7 @@
 * workshop spec
   - Airflow Orchestration
       - PC located airflow, not cloud
+      - communication with boto3 api 
   - 전처리 : Glue / Spark
   - ML training / parameter tunning / Interference -> sagemaker.
   - not describe feature store (on/offline)
