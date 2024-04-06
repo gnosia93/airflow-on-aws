@@ -13,7 +13,7 @@
   - pytorch for ml
   - pypark for sparkml & dataframe - de
   - CI/CD
-      - github / githube action.
+      - github / github action.
       - code commit / copepipeline
   - MLflow ?? --> experiment / model 저장.
   - Spark structured streaming support with kafka ? 
