@@ -10,7 +10,7 @@
     - delta lake / iceberg  
   - no visualization support such as quicksight, tableau
   - pytorch for ml
-  - pypark for sparkml & dataframe
+  - pypark for sparkml & dataframe - de
   - CI/CD
       - github / githube action.
       - code commit / copepipeline
