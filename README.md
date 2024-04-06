@@ -14,7 +14,6 @@
   - CI/CD
       - github / githube action.
       - code commit / copepipeline
-      
   - MLflow ?? --> experiment / model 저장.
 
 * Infra : VPC, S3, EC2, Glue or EMR Spark
