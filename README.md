@@ -8,7 +8,9 @@
 
 * Infra : VPC, S3, EC2, Glue or EMR Spark
 * Dataset : Giga byte 이상의 데이터타 셋 확보 필요.. (Regression or Classification 용)
-
+* Storage : HDFS(EMR), S3
+* Monitoring : ?
+    
 올해 새롭게 만들 워크샵 / 빌드하자 ^_^
 
 
