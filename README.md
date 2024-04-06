@@ -1,14 +1,13 @@
 # airflow-on-aws
 
-Airflow Orchestration
+* Airflow Orchestration
   - 전처리 : Glue / Spark
   - ML training / parameter tunning / Interference -> sagemaker.
   - Pytorch
   - MLflow --> experiment / model 저장.
 
-Infra : S3, EC3, Glue or EMR Spark
-
-Dataset : Giga byte 이상의 데이터타 셋 확보 필요.. (Regression or Classification 용)
+* Infra : VPC, S3, EC2, Glue or EMR Spark
+* Dataset : Giga byte 이상의 데이터타 셋 확보 필요.. (Regression or Classification 용)
 
 올해 새롭게 만들 워크샵 / 빌드하자 ^_^
 
