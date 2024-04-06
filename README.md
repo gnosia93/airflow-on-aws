@@ -16,6 +16,7 @@
       - github / githube action.
       - code commit / copepipeline
   - MLflow ?? --> experiment / model 저장.
+  - Spark structured streaming support with kafka ? 
 * Infra : VPC, S3, EC2, Glue or EMR Spark
 * Dataset : Giga byte 이상의 데이터타 셋 확보 필요.. (Regression or Classification 용)
 * Storage : HDFS(EMR), S3
