@@ -1,6 +1,7 @@
 # airflow-on-aws
 
-* Airflow Orchestration
+* workshop spec
+  - Airflow Orchestration
   - 전처리 : Glue / Spark
   - ML training / parameter tunning / Interference -> sagemaker.
   - not describe feature store (on/offline)
