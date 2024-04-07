@@ -65,6 +65,12 @@ botocore                                 1.34.79
 2023-09-17 11:14:10 sagemaker-studio-saf396dnk3
 ```
 
+## 파일 S3 에 업로드 해보기 ##
+* https://airflow.apache.org/docs/apache-airflow-providers-amazon/stable/transfer/local_to_s3.html
+```
+
+```
+
 ## 트러블 슈팅 ##
 
 * aiobotocore 2.5.0 requires botocore<1.29.77,>=1.29.76, but you have botocore 1.34.79 which is incompatible
