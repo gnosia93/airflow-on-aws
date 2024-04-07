@@ -27,7 +27,7 @@
 
 ## ##
 
-* [#1. Airflow 설치](https://github.com/gnosia93/airflow-on-aws/blob/main/tutorial/airflow-on-pc.md)
+* [#1. Airflow 설치하기](https://github.com/gnosia93/airflow-on-aws/blob/main/tutorial/airflow-on-pc.md)
 
 
 
