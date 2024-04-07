@@ -21,6 +21,8 @@ drwxr-xr-x    3 soonbeom  staff     96  4  7 16:30 logs
           --lastname admin \
           --role Admin \
           --email admin@example.org
+
+% airflow db init
 ```
 
 
