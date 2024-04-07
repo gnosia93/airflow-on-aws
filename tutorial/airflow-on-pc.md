@@ -48,7 +48,12 @@ Access Logformat:
 ## aws 프로바이더 설치 ##
 * https://airflow.apache.org/docs/apache-airflow-providers-amazon/stable/index.html
 ```
-pip install apache-airflow-providers-amazon
+% pip install apache-airflow-providers-amazon
+
+% pip list | grep boto
+aiobotocore                              2.5.0
+boto3                                    1.34.79
+botocore                                 1.34.79
 ```
 
 ## 트러블 슈팅 ##
