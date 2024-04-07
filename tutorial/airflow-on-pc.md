@@ -45,9 +45,8 @@ Access Logformat:
 ![](https://github.com/gnosia93/airflow-on-aws/blob/main/images/airflow-2.png)
 
 
-## aws operator 설치 ##
-
+## aws 프로바이더 설치 ##
+* https://airflow.apache.org/docs/apache-airflow-providers-amazon/stable/index.html
 ```
-pip install apache-airflow-providers-aws
-
+pip install apache-airflow-providers-amazon
 ```
