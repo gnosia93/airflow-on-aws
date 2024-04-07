@@ -63,3 +63,6 @@ botocore                                 1.34.79
 % python -m pip uninstall boto3 botocore
 % python3 -m pip install boto3
 ```
+
+## 레퍼런스 ##
+* https://velog.io/@ujeongoh/Airflow-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-AWS-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0
