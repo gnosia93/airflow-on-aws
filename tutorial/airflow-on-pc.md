@@ -47,4 +47,7 @@ Access Logformat:
 
 ## aws operator 설치 ##
 
+```
+pip install apache-airflow-providers-aws
 
+```
