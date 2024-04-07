@@ -39,6 +39,9 @@ Logfiles: - -
 Access Logformat:
 ```
 
+![](https://github.com/gnosia93/airflow-on-aws/blob/main/images/airflow-1.png)
+
+![](https://github.com/gnosia93/airflow-on-aws/blob/main/images/airflow-2.png)
 
 
 
