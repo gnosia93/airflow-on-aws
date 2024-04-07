@@ -5,6 +5,8 @@
 # conda environments:
 #
 base                  *  /Users/soonbeom/anaconda3
+
+% pip install apache-airflow
 ```
 
 
