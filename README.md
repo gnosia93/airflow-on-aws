@@ -25,6 +25,12 @@
 올해 새롭게 만들 워크샵 / 빌드하자 ^_^
 
 
+## ##
+
+* [# Airflow 설치]()
+
+
+
 ## Dataset ##
 
 * https://blog.devgenius.io/etl-orchestration-on-yelp-dataset-using-glue-and-aws-mwaa-airflow-bcdfc676e46b
