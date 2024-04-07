@@ -44,10 +44,10 @@ Logfiles: - -
 Access Logformat:
 ```
 
-로컬 pc 에서 8080 포트로 접속한다.
+* 로컬 pc 에서 8080 포트로 접속한다.
 ![](https://github.com/gnosia93/airflow-on-aws/blob/main/images/airflow-1.png)
 
-admin 유저 생성시 설정한 패스워드를 이용하여 로그인 한다. 
+* admin 유저 생성시 설정한 패스워드를 이용하여 로그인 한다. 
 ![](https://github.com/gnosia93/airflow-on-aws/blob/main/images/airflow-2.png)
 
 
