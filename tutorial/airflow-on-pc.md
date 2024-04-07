@@ -48,6 +48,3 @@ Access Logformat:
 ## aws operator 설치 ##
 
 
-## 참고자료 ##
-
-* [[airflow] 맥 터미널에서 에어플로우 설치하기](https://velog.io/@jenori_dev/airflow-%EB%A7%A5-%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-%EC%97%90%EC%96%B4%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
