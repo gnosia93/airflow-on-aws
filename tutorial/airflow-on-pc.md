@@ -23,6 +23,20 @@ drwxr-xr-x    3 soonbeom  staff     96  4  7 16:30 logs
           --email admin@example.org
 
 % airflow db init
+
+% airflow webserver -p 8080
+[2024-04-07T17:43:28.831+0900] {configuration.py:2066} INFO - Creating new FAB webserver config file in: /Users/soonbeom/airflow/webserver_config.py
+  ____________       _____________
+ ____    |__( )_________  __/__  /________      __
+____  /| |_  /__  ___/_  /_ __  /_  __ \_ | /| / /
+___  ___ |  / _  /   _  __/ _  / / /_/ /_ |/ |/ /
+ _/_/  |_/_/  /_/    /_/    /_/  \____/____/|__/
+Running the Gunicorn Server with:
+Workers: 4 sync
+Host: 0.0.0.0:8080
+Timeout: 120
+Logfiles: - -
+Access Logformat:
 ```
 
 
