@@ -7,3 +7,4 @@
 
 
 * [How to Run AWS Glue Jobs with Airflow! Use Airflow to Manage Amazon Glue Jobs](https://www.youtube.com/watch?v=5tu1aixBjnw)
+* [Develop AWS Glue Jobs Locally Using Visual Studio Code and Docker on Windows - step by step](https://www.youtube.com/watch?v=__j-SyopVBs)
