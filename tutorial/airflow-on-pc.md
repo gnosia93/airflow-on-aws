@@ -14,6 +14,13 @@ drwxr-x---+ 109 soonbeom  staff   3488  4  7 16:30 ..
 drwxr-xr-x    3 soonbeom  staff     96  4  7 16:30 logs
 
 % mkdir dags
+
+% airflow users create \
+          --username admin \
+          --firstname admin \
+          --lastname admin \
+          --role Admin \
+          --email admin@example.org
 ```
 
 
