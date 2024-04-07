@@ -1,4 +1,5 @@
-이번 챕터에서는 로컬 PC에 airflow 를 설치하고 간단한 glue job 을 만들어서 등록한 후 호출하는 실습을 진행합니다.
+## 에어플로우 설치 ##
+아래의 명령어를 이용하여 PC에 airflow 를 설치합니다.
 
 ```
 % pip install apache-airflow
@@ -43,6 +44,8 @@ Access Logformat:
 
 ![](https://github.com/gnosia93/airflow-on-aws/blob/main/images/airflow-2.png)
 
+
+## aws operator 설치 ##
 
 
 ## 참고자료 ##
