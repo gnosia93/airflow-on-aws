@@ -1,6 +1,6 @@
 ![](https://github.com/gnosia93/airflow-on-aws/blob/main/images/airflow-logo.png)
 
-로컬 PC 에 aws cli 및 credentials 설정이 완료되었다고 가정한다. 설정되어 있지 않은 경우 [config 및 credentials](https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/cli-configure-files.html) 참고하여 aws cli 를 설정한다.
+로컬 PC 에 aws cli 및 credentials 설정이 완료되었다고 가정한다. 만약 그렇지 않은 경우 [config 및 credentials](https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/cli-configure-files.html) 참고하여 aws cli 를 먼저 설정한다.
 
 ## 에어플로우 설치 ##
 아래의 명령어를 이용하여 PC에 airflow 를 설치합니다.
