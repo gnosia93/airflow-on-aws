@@ -61,8 +61,7 @@ botocore                                 1.34.79
 2023-05-02 09:04:14 glue-sfdc-analysis
 2023-04-04 15:07:25 glue-sink-20230404
 2023-02-28 09:20:34 iceberg-bcd07468d10a-2023-02-28
-2023-09-17 11:23:18 sagemaker-ap-northeast-2-499514681453
-2023-09-17 11:14:10 sagemaker-studio-saf396dnk3
+
 ```
 
 ## 파일 S3 에 업로드 해보기 ##
