@@ -21,6 +21,7 @@
 * Dataset : Giga byte 이상의 데이터타 셋 확보 필요.. (Regression or Classification 용)
 * Storage : HDFS(EMR), S3
 * Monitoring : cloudwatch X -> prometheus & grafana O
+* Dataset : https://blog.devgenius.io/etl-orchestration-on-yelp-dataset-using-glue-and-aws-mwaa-airflow-bcdfc676e46b
     
 올해 새롭게 만들 워크샵 / 빌드하자 ^_^
 
@@ -30,10 +31,6 @@
 * [#1. Airflow 설치하기](https://github.com/gnosia93/airflow-on-aws/blob/main/tutorial/airflow-on-pc.md)
 
 
-
-## Dataset ##
-
-* https://blog.devgenius.io/etl-orchestration-on-yelp-dataset-using-glue-and-aws-mwaa-airflow-bcdfc676e46b
 
 
 ## 레퍼런스 ##
