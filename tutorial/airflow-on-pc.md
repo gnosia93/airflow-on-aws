@@ -72,7 +72,7 @@ botocore                                 1.34.79
 
 ```
 
-## 파일 S3 에 업로드 해보기 ##
+## 로컬 파일을 S3 에 업로드 해보기 ##
 * https://airflow.apache.org/docs/apache-airflow-providers-amazon/stable/transfer/local_to_s3.html
 ```
 
