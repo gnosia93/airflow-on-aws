@@ -88,4 +88,4 @@ botocore                                 1.34.79
 
 ## 레퍼런스 ##
 * [Amazon Web Services Connection](https://airflow.apache.org/docs/apache-airflow-providers-amazon/stable/connections/aws.html)
-* https://velog.io/@ujeongoh/Airflow-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-AWS-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0
+* https://stackoverflow.com/questions/41805265/how-to-run-a-simple-airflow-dag
