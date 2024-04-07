@@ -1,24 +1,19 @@
 이번 챕터에서는 로컬 PC에 airflow 를 설치하고 간단한 glue job 을 만들어서 등록한 후 호출하는 실습을 진행합니다.
 
 ```
-% conda env list
-# conda environments:
-#
-base                  *  /Users/soonbeom/anaconda3
-
 % pip install apache-airflow
 
 % airflow info
 
 % cd airflow
-(base) soonbeom@bcd07468d10a airflow % ls -la
+% ls -la
 total 152
 drwxr-xr-x    4 soonbeom  staff    128  4  7 16:30 .
 drwxr-x---+ 109 soonbeom  staff   3488  4  7 16:30 ..
 -rw-------    1 soonbeom  staff  76164  4  7 16:30 airflow.cfg
 drwxr-xr-x    3 soonbeom  staff     96  4  7 16:30 logs
 
-
+% mkdir dags
 ```
 
 
