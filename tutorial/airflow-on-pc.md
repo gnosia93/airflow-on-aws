@@ -50,3 +50,8 @@ Access Logformat:
 ```
 pip install apache-airflow-providers-amazon
 ```
+
+## 트러블 슈팅 ##
+```
+aiobotocore 2.5.0 requires botocore<1.29.77,>=1.29.76, but you have botocore 1.34.79 which is incompatible
+```
