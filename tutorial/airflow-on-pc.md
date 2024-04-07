@@ -54,6 +54,15 @@ Access Logformat:
 aiobotocore                              2.5.0
 boto3                                    1.34.79
 botocore                                 1.34.79
+
+% aws s3 ls
+...
+2023-04-05 20:54:20 glue-seoul-20230405
+2023-05-02 09:04:14 glue-sfdc-analysis
+2023-04-04 15:07:25 glue-sink-20230404
+2023-02-28 09:20:34 iceberg-bcd07468d10a-2023-02-28
+2023-09-17 11:23:18 sagemaker-ap-northeast-2-499514681453
+2023-09-17 11:14:10 sagemaker-studio-saf396dnk3
 ```
 
 ## 트러블 슈팅 ##
