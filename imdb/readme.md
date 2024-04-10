@@ -21,3 +21,7 @@ $ cat imdb.tar.gz* | tar xvfz -
 rdd = sc.textFile("data/label.gz")
 print rdd.take(10)
 ```
+
+
+## 참고자료 ##
+* https://blog.devgenius.io/etl-orchestration-on-yelp-dataset-using-glue-and-aws-mwaa-airflow-bcdfc676e46b
