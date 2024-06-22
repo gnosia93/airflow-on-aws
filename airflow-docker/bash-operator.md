@@ -1,4 +1,8 @@
 
+```
+docker-compose down -v
+```
+
 
 
 ## 레퍼런스 ##
