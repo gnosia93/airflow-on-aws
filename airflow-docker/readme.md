@@ -4,11 +4,15 @@
 
 2. Fetching docker-compose.yaml
 
-  ```
-  curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.9.2/docker-compose.yaml'
-  ```
+```
+curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.9.2/docker-compose.yaml'
+```
 
-
+3. Setting the right Airflow user
+```
+mkdir -p ./dags ./logs ./plugins ./config
+echo -e "AIRFLOW_UID=$(id -u)" > .env
+```
 
 
 ## 레퍼런스 ##
