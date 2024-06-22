@@ -1,4 +1,7 @@
 
+![](https://github.com/gnosia93/airflow-on-aws/blob/main/airflow-docker/images/airflow-docker.png)
+
+
 1. Install Docker Community Edition (CE) on your workstation
 
 
