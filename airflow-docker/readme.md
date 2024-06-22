@@ -1,6 +1,8 @@
+### Prerequisite ###
+
 This section describe how to install airflow with docker into your mac os desktop.  
 You need to install vscode first before installing airflow with docker compose.  
-Make a vscode proejct which is named 'AIRFLOW-DOCKER' on your mac and open that proejct.  
+Make a vscode proejct which is named 'AIRFLOW-DOCKER' on your mac and open that project.  
 
 ![](https://github.com/gnosia93/airflow-on-aws/blob/main/airflow-docker/images/airflow-docker.png)
 
