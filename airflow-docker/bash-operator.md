@@ -17,6 +17,7 @@ docker-compose up -d
 ```
 
 
+As you can see, dag examples has been removed.
 ![](https://github.com/gnosia93/airflow-on-aws/blob/main/airflow-docker/images/airflow-remove-example.png)
 
 
