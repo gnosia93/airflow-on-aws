@@ -14,6 +14,11 @@ mkdir -p ./dags ./logs ./plugins ./config
 echo -e "AIRFLOW_UID=$(id -u)" > .env
 ```
 
+4. Initialize the database
+```
+docker compose up airflow-init
+```
+
 
 ## 레퍼런스 ##
 
