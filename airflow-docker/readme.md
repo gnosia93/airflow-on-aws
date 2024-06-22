@@ -4,9 +4,9 @@
 
 2. Fetching docker-compose.yaml
 
-```
-curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.9.2/docker-compose.yaml'
-```
+  ```
+  curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.9.2/docker-compose.yaml'
+  ```
 
 
 
