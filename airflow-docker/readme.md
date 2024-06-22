@@ -51,7 +51,7 @@ b3a1a1daf761   postgres:13            "docker-entrypoint.s…"   15 minutes ago 
 ![](https://github.com/gnosia93/airflow-on-aws/blob/main/airflow-docker/images/airflow-login-1.png)
 ![](https://github.com/gnosia93/airflow-on-aws/blob/main/airflow-docker/images/airflow-login-2.png)
 
-Both ID and Password is 'airflow'
+ID and Password is 'airflow'
 
 
 
