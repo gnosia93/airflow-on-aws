@@ -19,6 +19,12 @@ echo -e "AIRFLOW_UID=$(id -u)" > .env
 docker compose up airflow-init
 ```
 
+5. Running Airflow as a daemon 
+```
+docker compose up -d
+```
+
+
 
 ## 레퍼런스 ##
 
